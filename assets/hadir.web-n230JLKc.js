@@ -1,1 +1,0 @@
-import{r as e}from"./index-ByI657p7.js";var t=class extends e{async isIgnoringBatteryOptimizations(){return{value:!0}}async openBatterySettings(){}async setLightBars(){}async schedulePrompts(){}async takeAnswers(){return{answers:[]}}};export{t as HadirWeb};
